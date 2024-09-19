@@ -1,4 +1,4 @@
-package kojemyachenko
+package kojemyachenko;
 
 public class Author {
     private String name;
