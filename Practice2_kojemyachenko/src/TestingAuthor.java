@@ -1,4 +1,4 @@
-package kojemmyachenko
+package kojemmyachenko;
 
 public class TestingAuthor {
     public static void main(String[] args) {
