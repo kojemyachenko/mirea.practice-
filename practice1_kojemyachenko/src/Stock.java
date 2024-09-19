@@ -1,3 +1,5 @@
+package kojemyachenko;
+
 public class Stock {
     String symbol;
     String name;
