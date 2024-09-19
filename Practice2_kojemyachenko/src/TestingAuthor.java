@@ -1,3 +1,5 @@
+package kojemmyachenko
+
 public class TestingAuthor {
     public static void main(String[] args) {
         Author a1 = new Author("Kirill", "Kirillkong@mail.ru", 'M');
